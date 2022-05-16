@@ -18,7 +18,7 @@ const textAdventure = [
     ]
   },
   {
-    description: 'He finished The Crucible! Now what?',
+    description: 'He finished The Crucible by Arthur Miller! Now what?',
     options: [
       'Read another book',
       'Go to sleep'
